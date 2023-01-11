@@ -1,4 +1,5 @@
 # Rental
+As I always like to play with new ideas, so there will be update of the code time to time with more or less features.
 Data is from : Apartment rental offers in Germany in Kaggle
 https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
 
@@ -11,6 +12,6 @@ Using  machine learning techniques to predict the rental of a property in Cologn
 5. Choose an appropriate machine learning algorithm or model for rental prediction. There are many options to choose from, such as linear regression, random forest etc.
 6. Train the model on the training set by fitting it to the data.
 7. Evaluate the model's performance on the test set by comparing the predicted rental prices to the actual rental prices.
-
+8. By giving your required characteristics you can now see a prediction of the approximate you need to pay.
 Future Work:
 1. Fine-tune the model by repeating steps 5 and 6, using different algorithms or model configurations.
