@@ -1,4 +1,7 @@
 # Rental
+Data is from : Apartment rental offers in Germany in Kaggle
+https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
+
 Using  machine learning techniques to predict the rental of a property in Cologne(Köln). Here is the outline of the process of the prediction:
 
 1. Visualize and Initial Analysis of the dataset using stanadard procedures and building an interactive map using Follium.
