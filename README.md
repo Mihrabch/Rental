@@ -1,4 +1,4 @@
-# Rent Prediction using Machine Learning
+# Rent Prediction using Data Science & Machine Learning
 
 ## Where is the data from?
 
@@ -11,11 +11,11 @@ At a given time, all available offers were scraped from the site and saved. This
 The data set contains most of the important properties, such as living area size, the rent, both base rent as well as total rent (if applicable), the location (street and house number, if available, ZIP code and state), type of energy etc. It also has two variables containing longer free text descriptions: description with a text describing the offer and facilities describing all available facilities, newest renovation etc. The date column was added to give the time of scraping.Apartment rental offers in Germany in Kaggle
 https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
 
-Acknowledgements
+## Acknowledgements
 
 The data belongs to www.immobilienscount24.de and is for research purposes only. The data was created with .
 
-Data & ML:
+## Data & ML Work Steps:
 
 Use  machine learning techniques to predict the rental of a property in Cologne(Köln). Here is the outline of the process of the prediction:
 
@@ -30,7 +30,7 @@ Use  machine learning techniques to predict the rental of a property in Cologne(
 
 
 
-Conclusion:
+## Conclusion:
 
 1.Evaluation of Algorithms:
 Five different machine learning algorithms were employed to identify the most effective one for predicting rent prices: Decision Tree Regressor, Random Forest Regressor, AdaBoost Regressor, ML Regressor, and XGBoost Regressor. This comprehensive approach ensures that the chosen model is the best fit for the data and provides accurate predictions.
@@ -41,7 +41,7 @@ Among the evaluated algorithms, XGBoost Regressor and Random Forest Regressor de
 3.User Interaction for Rent Estimation:
 At the end of the project, users are prompted to fill in their specific requirements and preferences. Based on the input provided, the system will utilize the best-performing algorithm to estimate the possible rent, offering a tailored prediction for each user.
 
-Recommendation:
+## Recommendation:
 
 1. Enhance the model's predictive power by incorporating additional features such as proximity to public transport, school ratings, crime rates, and local amenities. This comprehensive feature set can lead to more accurate rent predictions.
 2. Use one hot encoding.
