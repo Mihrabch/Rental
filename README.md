@@ -12,7 +12,7 @@ Use  machine learning techniques to predict the rental of a property in Cologne(
 5. Choose appropriate machine learning algorithms or models for rent prediction.
 6. Train on the training set and evaluate the performance on the test set by comparing the predicted rent to the actual rent.
 8. Fine-tune the model using RandomSearchCV by repeating steps 5 and 6 to optimize the prediction.
-9. By providing required values one can get the approximate rent from the framework for cologne.
+9. Develop a framework based on the model to estimate rent in Cologne after anyone fill in their requirements
 
 Future Work:
 1. Fine tuning using GridSearchCV for better parameter tuning.
