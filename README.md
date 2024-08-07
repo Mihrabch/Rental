@@ -14,6 +14,20 @@ Use  machine learning techniques to predict the rental of a property in Cologne(
 8. Fine-tune the model using RandomSearchCV by repeating steps 5 and 6 to optimize the prediction.
 9. Develop a framework based on the model to estimate rent in Cologne after anyone fill in their requirements
 
-Future Work:
-1. Fine tuning using GridSearchCV for better parameter tuning.
-2. Apply new algorithms to see is there any change in prediction.
+
+
+Conclusion:
+1.Evaluation of Algorithms:
+Five different machine learning algorithms were employed to identify the most effective one for predicting rent prices: Decision Tree Regressor, Random Forest Regressor, AdaBoost Regressor, ML Regressor, and XGBoost Regressor. This comprehensive approach ensures that the chosen model is the best fit for the data and provides accurate predictions.
+
+2.Performance of XGBoost and Random Forest:
+Among the evaluated algorithms, XGBoost Regressor and Random Forest Regressor demonstrated superior performance. They consistently delivered more accurate and reliable predictions compared to the other models, making them the top choices for this task.
+
+3.User Interaction for Rent Estimation:
+At the end of the project, users are prompted to fill in their specific requirements and preferences. Based on the input provided, the system will utilize the best-performing algorithm to estimate the possible rent, offering a tailored prediction for each user.
+
+Recommendation:
+1. Enhance the model's predictive power by incorporating additional features such as proximity to public transport, school ratings, crime rates, and local amenities. This comprehensive feature set can lead to more accurate rent predictions.
+2. Use one hot encoding.
+3. Extend the framework to include data from multiple cities, allowing for the assessment of its effectiveness in different urban environments. This will help validate the model's generalizability and robustness across various regions.
+4. Apply new algorithms to see is there any change in prediction.
