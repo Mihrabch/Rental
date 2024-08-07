@@ -3,7 +3,7 @@ As I always like to play with new ideas, so there will be update of the code tim
 Data is from : Apartment rental offers in Germany in Kaggle
 https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
 
-Using  machine learning techniques to predict the rental of a property in Cologne(Köln). Here is the outline of the process of the prediction:
+Use  machine learning techniques to predict the rental of a property in Cologne(Köln). Here is the outline of the process of the prediction:
 
 1. Visualize and Initial Analysis of the dataset using stanadard procedures and building an interactive map using Follium.
 2. Separate Cologne rental data with the features from the dataset.
